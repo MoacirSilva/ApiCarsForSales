@@ -43,9 +43,8 @@ namespace DevCars.API
                     Version = "v1",
                     Contact = new OpenApiContact
                     {
-                        Name = "Luis Felipe",
-                        Email = "luisfelipe@umemail.com.br",
-                        Url = new Uri("https://luisdev.com.br")
+                        Name = "Moacir Silva",
+                        Email = "moacirsilva.it@gmail.com",                        
                     }                
                 });
 
